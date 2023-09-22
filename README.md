@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy PAGANO Franco 👋</h1>
 </div>
-<img src="https://github.com/PaganoFranco/PaganoFranco/blob/main/Portada%20GIt%20Hub.gif?raw=true">
+<img src="https://github.com/PaganoFranco/PaganoFranco/blob/main/PORTADA%20PRESENTACION%20GIT%20HUB.gif?raw=true">
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/PaganoFranco" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
