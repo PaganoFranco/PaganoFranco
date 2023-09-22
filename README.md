@@ -10,8 +10,7 @@
   <!-- Social Links -->
   <a href="https://www.instagram.com/franco_pagano24/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- OTH Links -->
-  <a href="https://open.spotify.com/user/31po6lribuakflfkvrj7pvlff2ny?si=b19fe220a5c64663" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify
-&logoColor=white"target="_blank"></a>
+  <a href="https://open.spotify.com/user/31po6lribuakflfkvrj7pvlff2ny?si=b19fe220a5c64663" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
 </div>
 
 Soy Profesor de Educación Secundaria en Tecnologías con más de un año de experiencia en la enseñanza de Automatización y Control a través de la programación en hardware Arduino. 
