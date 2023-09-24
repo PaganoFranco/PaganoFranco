@@ -2,6 +2,8 @@
 <h1 align="center">Hola, soy PAGANO Franco 👋</h1>
 </div>
 <img src="https://github.com/PaganoFranco/PaganoFranco/blob/main/PORTADA%20PRESENTACION%20GIT%20HUB.gif?raw=true">
+
+## Connect with me:
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/PaganoFranco" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -13,12 +15,13 @@
   <a href="https://open.spotify.com/user/31po6lribuakflfkvrj7pvlff2ny?si=b19fe220a5c64663" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
 </div>
 
+## Who am I?:
 Soy Profesor de Educación Secundaria en Tecnologías con más de un año de experiencia en la enseñanza de Automatización y Control a través de la programación en hardware Arduino. 
 
 A principios de 2023, decidí dar un giro a mi vida y me sumergí en el fascinante mundo de la programación. Actualmente, soy estudiante de la Tecnicatura Universitaria en Programación 
 en la Universidad Tecnológica Nacional y también me he destacado como precursor en los cursos ofrecidos por plataformas de aprendizaje en línea como Egg y Platzi.
 
-## Tecnologías:
+## Technologies:
 <div align="center">
   <br>
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
@@ -33,8 +36,7 @@ en la Universidad Tecnológica Nacional y también me he destacado como precurso
 </div>
 
 
-## Algunos vídeos de Arduino:
-
+## Arduino tutorials:
 <table style="width:100%">
 <tr>
 <td>
