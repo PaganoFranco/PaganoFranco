@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy PAGANO Franco 👋</h1>
 </div>
-<img src="https://github.com/PaganoFranco/PaganoFranco/blob/main/PORTADA%20PRESENTACION%20GIT%20HUB.gif?raw=true">
+<img src="https://github.com/PaganoFranco/PaganoFranco/blob/main/PRESENTACION%20GIT%20HUB.gif?raw=true">
 
 ## Connect with me:
 <div align="center">
